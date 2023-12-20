@@ -1,5 +1,4 @@
-// יובל חגבי - 207797424
-// חן שלו - 313584906
+
 package test;
 import java.awt.*;
 import java.util.ArrayList;
